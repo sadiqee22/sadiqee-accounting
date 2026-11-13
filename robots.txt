@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://sadiqee22.github.io/sadiqee-accounting/sitemap.xml
